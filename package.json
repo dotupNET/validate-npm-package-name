@@ -1,7 +1,7 @@
 {
-  "name": "validate-npm-package-name",
+  "name": "validate-npm-package-name-typed",
   "version": "3.0.1",
-  "description": "Give me a string and I'll tell you if it's a valid npm package name",
+  "description": "Give me a string and I'll tell you if it's a valid npm package name. With type definitions.",
   "main": "index.js",
   "types": "index.d.ts",
   "directories": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm/validate-npm-package-name"
+    "url": "https://github.com/dotupNET/validate-npm-package-name-typed"
   },
   "keywords": [
     "npm",
@@ -33,7 +33,7 @@
   "author": "zeke",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/npm/validate-npm-package-name/issues"
+    "url": "https://github.com/dotupNET/validate-npm-package-name-typed/issues"
   },
-  "homepage": "https://github.com/npm/validate-npm-package-name"
+  "homepage": "https://github.com/dotupNET/validate-npm-package-name-typed"
 }
